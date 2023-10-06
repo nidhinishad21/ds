@@ -2,11 +2,8 @@
 public class MyArrayList {
 	private int[] arr;
 	private int count;
-	private int index;
+	private int index; 
 	
-	public int getIndex() {
-		return index;
-	}
 	
 	public MyArrayList() {
 		count=0;
